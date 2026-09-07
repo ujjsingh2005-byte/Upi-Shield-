@@ -1,6 +1,6 @@
 import { AnalysisResponse, UPIAnalysisResponse, ImageAnalysisResponse } from './types';
 
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+const API_BASE_URL = (import.meta.env.VITE_API_BASE_URL || 'https://upi-shield-2qwq.onrender.com').replace(/\/$/, '');
 
 /**
  * Helper to fetch with automatic retries and extended timeout for backend cold-starts (e.g., Render free tier).

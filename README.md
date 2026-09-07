@@ -3,18 +3,18 @@
 > *Official Entry for CC-GFG-02 — Career Catalyst Club × GeeksforGeeks Hackathon*  
 > **Tagline:** *"Stay Alert. Stay Safe."*
 
-[![Live Demo](https://img.shields.io/badge/Live_App-Vercel-000000?style=for-the-badge&logo=vercel)](https://upi-shield-three.vercel.app)
-[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render)](https://upi-shield-0f8d.onrender.com/api/health)
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/Arpankumar673/Upi-Shield-)
+[![Live Demo](https://img.shields.io/badge/Live_App-Vercel-000000?style=for-the-badge&logo=vercel)](https://upi-shield-lime.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend_API-Render-46E3B7?style=for-the-badge&logo=render)](https://upi-shield-2qwq.onrender.com/api/health)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/ujjsingh2005-byte/Upi-Shield-)
 
 ---
 
 ## 📌 Live Application & Resources
 
-- **🌐 Web Application (Vercel)**: [https://upi-shield-three.vercel.app](https://upi-shield-three.vercel.app)
-- **⚡ REST API Backend (Render)**: [https://upi-shield-0f8d.onrender.com](https://upi-shield-0f8d.onrender.com)
-- **💚 API Health Status**: [https://upi-shield-0f8d.onrender.com/api/health](https://upi-shield-0f8d.onrender.com/api/health)
-- **💻 Source Code Repository**: [https://github.com/Arpankumar673/Upi-Shield-](https://github.com/Arpankumar673/Upi-Shield-)
+- **🌐 Web Application (Vercel)**: [https://upi-shield-lime.vercel.app](https://upi-shield-lime.vercel.app)
+- **⚡ REST API Backend (Render)**: [https://upi-shield-2qwq.onrender.com](https://upi-shield-2qwq.onrender.com)
+- **💚 API Health Status**: [https://upi-shield-2qwq.onrender.com/api/health](https://upi-shield-2qwq.onrender.com/api/health)
+- **💻 Source Code Repository**: [https://github.com/ujjsingh2005-byte/Upi-Shield-](https://github.com/ujjsingh2005-byte/Upi-Shield-)
 
 ---
 

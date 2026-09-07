@@ -34,8 +34,15 @@ app = FastAPI(
 # Configure CORS for Frontend Integration (Vercel / Local)
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Permits requests from Vite dev server and deployed frontend
-    allow_origin_regex=r"https://.*",  # Permits all HTTPS origins including Vercel preview domains
+    allow_origins=[
+        "https://upi-shield-lime.vercel.app",
+        "https://upi-shield-three.vercel.app",
+        "http://localhost:3000",
+        "http://localhost:5173",
+        "http://localhost:8000",
+        "*"
+    ],
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
